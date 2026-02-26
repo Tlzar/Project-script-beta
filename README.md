@@ -8,7 +8,7 @@
 
 ### global load
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/tlredz/Scripts/refs/heads/main/main.luau"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Tlzar/Project-script-beta/main/main.lua"))()
 ```
 
 - Blox Fruits
@@ -18,5 +18,5 @@ local Settings = {
   Translator = true; -- true/false
 }
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/tlredz/Scripts/refs/heads/main/main.luau"))(Settings)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Tlzar/Project-script-beta/main/main.lua"))()
 ```
